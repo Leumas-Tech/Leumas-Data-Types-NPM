@@ -1,0 +1,23 @@
+{
+  "name": "leumas-data-types",
+  "version": "1.0.1",
+  "description": "Leumas custom built React JSX DataTypes for a variety of cases. Explore our docs at https://cookbook.leumas.tech/docs/leumas-data-types-npm-package",
+  "main": "index.js",
+  "scripts": {
+  "build": "babel src --out-dir dist --verbose",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "keywords": [
+    "NPM",
+    "ReactJSX",
+    "DataTypes"
+  ],
+  "author": "William Bermudez",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-react": "^7.24.7"
+  }
+}

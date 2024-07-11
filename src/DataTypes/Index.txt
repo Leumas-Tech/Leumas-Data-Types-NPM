@@ -1,0 +1,128 @@
+Area
+
+Description: Handle area with various unit conversions (square meters, square kilometers, acres, square feet).
+Files: Area.js, AreaComponent.js
+Force
+
+Description: Represent force using Newton's Second Law (F = ma).
+Files: Force.js, ForceComponent.js
+Kinetic Energy
+
+Description: Represent kinetic energy (KE = 0.5 * m * v^2).
+Files: KineticEnergy.js, KineticEnergyComponent.js
+Ohm's Law
+
+Description: Calculate voltage, current, or resistance using Ohm's Law (V = IR).
+Files: OhmsLaw.js, OhmsLawComponent.js
+Power Equation
+
+Description: Calculate power, voltage, or current using the power equation (P = VI).
+Files: Power.js, PowerComponent.js
+Energy
+
+Description: Manage energy with unit conversions (joules, calories, kilowatt-hours).
+Files: Energy.js, EnergyComponent.js
+HierarchicalMap
+
+Description: Store and manage hierarchical key structures.
+Files: HierarchicalMap.js, HierarchicalMapComponent.js
+Matrix
+
+Description: Represent a two-dimensional array of numbers with matrix operations.
+Files: Matrix.js, MatrixComponent.js
+AskGPT
+
+Description: Send a prompt to GPT-3.5 Turbo and get a response.
+Files: AskGPT.js, AskGPTComponent.js
+GPTConversation
+
+Description: Manage a conversation with GPT-3.5 Turbo.
+Files: GPTConversation.js, GPTConversationComponent.js
+Countdown
+
+Description: Execute a function once the countdown is over.
+Files: Countdown.js, CountdownComponent.js
+CurrencyAmount
+
+Description: Manage currency values with automatic conversion.
+Files: CurrencyAmount.js, CurrencyComponent.js
+DalleImage
+
+Description: Generate a new random image using OpenAI DALL-E.
+Files: RandomDalleImage.js, RandomDalleImageComponent.js
+FileSize
+
+Description: Handle and convert file sizes between units (bytes, kilobytes, megabytes, gigabytes).
+Files: FileSize.js, FileSizeComponent.js
+GeoCoordinate
+
+Description: Store and manipulate geographic coordinates.
+Files: GeoCoordinate.js, GeoCoordinateComponent.js
+IPAddress
+
+Description: Handle IPv4 and IPv6 addresses with validation.
+Files: IPAddress.js, IPAddressComponent.js
+Markdown
+
+Description: Parse and render Markdown content.
+Files: Markdown.js, MarkdownComponent.js
+Percentage
+
+Description: Handle percentage values with methods for incrementing and decrementing.
+Files: Percentage.js, PercentageComponent.js
+RGBColor
+
+Description: Manage and manipulate RGB color values.
+Files: RGBColor.js, RGBColorComponent.js
+Stopwatch
+
+Description: Track elapsed time with start, stop, and reset functionalities.
+Files: Stopwatch.js, StopwatchComponent.js
+TimeSpan
+
+Description: Represent a span of time with methods for adding and subtracting different time units.
+Files: TimeSpan.js, TimeSpanComponent.js
+UnsplashImages
+
+Description: Generate a new random image using Unsplash.
+Files: RandomImage.js, RandomImageComponent.js
+UserRating
+
+Description: Store and manipulate user ratings.
+Files: UserRating.js, UserRatingComponent.js
+StatefulArray
+
+Description: Manage an array with undo/redo functionality.
+Files: StatefulArray.js, StatefulArrayComponent.js
+TemporalGraph
+
+Description: Manage nodes and edges with timestamps.
+Files: TemporalGraph.js, TemporalGraphComponent.js
+Distance
+
+Description: Handle distance with various unit conversions (meters, kilometers, miles, feet).
+Files: Distance.js, DistanceComponent.js
+Length
+
+Description: Handle length with various unit conversions (millimeters, centimeters, meters, kilometers, inches).
+Files: Length.js, LengthComponent.js
+Speed
+
+Description: Handle speed with various unit conversions (meters per second, kilometers per hour, miles per hour, knots).
+Files: Speed.js, SpeedComponent.js
+Temperature
+
+Description: Manage temperature values with conversion between Fahrenheit, Celsius, and Kelvin.
+Files: Temperature.js, TemperatureComponent.js
+Time
+
+Description: Handle time with various unit conversions (milliseconds, seconds, minutes, hours, days).
+Files: Time.js, TimeComponent.js
+Volume
+
+Description: Handle volume with various unit conversions (milliliters, liters, gallons).
+Files: Volume.js, VolumeComponent.js
+Weight
+
+Description: Manage weight with various unit conversions (milligrams, grams, kilograms, pounds).
+Files: Weight.js, WeightComponent.js
